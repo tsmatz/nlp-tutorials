@@ -19,8 +19,6 @@ I recommend you to use GPU-utilized machine to run these examples.<br>
 7. [Machine Translation by Encoder-Decoder Architecture](./07_encoder_decoder.ipynb)
 8. [Machine Translation with Attention](./08_attention.ipynb)
 
-This repository can be used for Hands-On study.
-
-> Note : These examples are run on Ubuntu 18.04 with GPU.
+This repository is for the purpose of Hands-On study.
 
 *Tsuyoshi Matsuzaki @ Microsoft*
