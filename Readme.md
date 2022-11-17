@@ -16,8 +16,8 @@ I recommend you to use GPU-utilized machine to run these examples.<br>
 4. [N-Gram detection with 1D Convolution](./04_ngram_cnn.ipynb)
 5. [Neural Language Model - Basic (Word Prediction Example)](./05_language_model_basic.ipynb)
 6. [Neural Language Model - RNN (Recurrent Neural Network)](./06_language_model_rnn.ipynb)
-7. [Machine Translation by Encoder-Decoder Architecture](./07_encoder_decoder.ipynb)
-8. [Machine Translation with Attention](./08_attention.ipynb)
+7. [Machine Translation (Seq2Seq Example) by Encoder-Decoder Architecture](./07_encoder_decoder.ipynb)
+8. [Machine Translation (Seq2Seq Example) with Attention](./08_attention.ipynb)
 
 This repository is for the purpose of Hands-On study.
 
