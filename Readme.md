@@ -11,7 +11,7 @@ I recommend you to use GPU-utilized machine to run these examples.<br>
 (When using GPU, **change ```tensorflow``` to ```tensorflow-gpu``` for package installation**.)
 
 1. [Primitive Embeddings (Sparse Vector)](./01_sparse_vector.ipynb)
-2. [Cusom Embedding by CBOW Example (Dense Vector)](./02_custom_embedding.ipynb)
+2. [Custom Embedding by CBOW Example (Dense Vector)](./02_custom_embedding.ipynb)
 3. [Word2Vec algorithm (Negative Sampling example)](./03_word2vec.ipynb)
 4. [N-Gram detection with 1D Convolution](./04_ngram_cnn.ipynb)
 5. [Neural Language Model - Basic (Word Prediction Example)](./05_language_model_basic.ipynb)
