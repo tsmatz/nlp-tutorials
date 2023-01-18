@@ -1,6 +1,6 @@
 # Natural Language Processing (Neural Methods) Tutorials
 
-**\- Learn how and why the model is \-**
+**\- Learn ideas and model architectures \-**
 
 These are examples written in Python to learn fundamental neural methods for Natural Language Processing (NLP).
 
