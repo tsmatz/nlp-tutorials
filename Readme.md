@@ -1,11 +1,9 @@
 # Natural Language Processing (Neural Methods) Tutorials
 
-These are Python examples to learn fundamental neural methods for Natural Language Processing (NLP). Each notebooks describe fundamental ideas for each architectures.
+This repository consists of Python examples to learn fundamental neural methods for Natural Language Processing (NLP). All notebooks describe fundamental ideas for each architectures.
 
 In the former part, I'll discuss about embeddings.<br>
 In the latter part, I'll focus on language model, and finally discuss how and why the widely used transformer architecture matters.
-
-I recommend you to run these examples on GPU-utilized machine.
 
 1. [Primitive Embeddings (Sparse Vector)](./01_sparse_vector.ipynb)
 2. [Custom Embedding (Dense Vector)](./02_custom_embedding.ipynb)
@@ -16,6 +14,11 @@ I recommend you to run these examples on GPU-utilized machine.
 7. [Encoder-Decoder Architecture (Seq2Seq)](./07_encoder_decoder.ipynb)
 8. [Attention](./08_attention.ipynb)
 9. [Transformer](./09_transformer.ipynb)
+
+> I recommend you to run these examples on GPU-utilized machine.
+
+NLP (natural language processing) has a long history in artificial intelligence, and generative models were also developed with traditional statistical models, such as, [Hidden Markov Models (HMMs)](https://github.com/tsmatz/hmm-lds-em-algorithm) and [Gaussian Mixture Models (GMMs)](https://github.com/tsmatz/gmm), in 1950s.<br>
+This repository focuses on neural methods which is used and researched in today's NLP, and you'll learn how each models are developed, improved, and reached into today's models (such as, widely-used transformers) by running notebooks in order.
 
 (This repository is built for the purpose of NLP hands-on studies.)
 
