@@ -18,6 +18,6 @@ In the latter part, I'll focus on language model, and finally discuss how and wh
 > I recommend you to run these examples on GPU-utilized machine.
 
 NLP (natural language processing) has a long history in artificial intelligence, and generative models were also developed with traditional statistical models, such as, [Hidden Markov Models (HMMs)](https://github.com/tsmatz/hmm-lds-em-algorithm) and [Gaussian Mixture Models (GMMs)](https://github.com/tsmatz/gmm), in 1950s.<br>
-This repository focuses on neural methods which is used and researched in today's NLP, and you'll learn how each models are developed, improved, and reached into today's models (such as, widely-used transformers) by running notebooks in order.
+However, this repository focuses on neural methods used in today's NLP, and you'll learn how each models are developed, improved, and reached into today's architectures (such as, widely-used transformers) by running notebooks in order.
 
 *Tsuyoshi Matsuzaki @ Microsoft*
