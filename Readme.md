@@ -2,7 +2,7 @@
 
 This repository consists of Python examples to learn fundamental neural methods for Natural Language Processing (NLP). All notebooks describe fundamental ideas for each architectures.
 
-In the former part, I'll discuss about embeddings.<br>
+In the former part, I'll focus on embeddings.<br>
 In the latter part, I'll focus on language models, and finally discuss how and why the widely used transformer architecture matters.
 
 1. [Primitive Embeddings (Sparse Vector)](./01_sparse_vector.ipynb)
