@@ -9,7 +9,7 @@ In the latter part, I'll focus on language models, and finally discuss how and w
 2. [Custom Embedding (Dense Vector)](./02_custom_embedding.ipynb)
 3. [Word2Vec algorithm (Negative Sampling)](./03_word2vec.ipynb)
 4. [N-Gram detection with 1D Convolution](./04_ngram_cnn.ipynb)
-5. [Neural Language Model - Basic (Word Prediction Example)](./05_language_model_basic.ipynb)
+5. [Neural Language Model - Basic](./05_language_model_basic.ipynb)
 6. [Neural Language Model - RNN (Recurrent Neural Network)](./06_language_model_rnn.ipynb)
 7. [Encoder-Decoder Architecture (Seq2Seq)](./07_encoder_decoder.ipynb)
 8. [Attention](./08_attention.ipynb)
