@@ -1,7 +1,7 @@
 # Natural Language Processing (Neural Methods) Tutorials
 
 This repository consists of Python (PyTorch) examples to learn fundamental neural methods for Natural Language Processing (NLP).<br>
-Each notebook has end-to-end implementation from scratch for each task, and I describe fundamental ideas (and background) for each architecture.
+Each notebook has end-to-end implementation (for each task) from scratch, and describes fundamental ideas and background for each architecture.
 
 1. [Primitive Embeddings (Sparse Vector)](./01_sparse_vector.ipynb)
 2. [Custom Embedding (Dense Vector)](./02_custom_embedding.ipynb)
