@@ -1,10 +1,7 @@
 # Natural Language Processing (Neural Methods) Tutorials
 
-This repository consists of Python examples to learn fundamental neural methods for Natural Language Processing (NLP).<br>
-Each notebook has end-to-end implementation from scratch with PyTorch for each task, and I describe fundamental ideas (and background) for each architecture.
-
-Tutorials follow the history of NLP neural methods.<br>
-In the latter part (from tutorial 5), I then focus on language models, improving the models by step-by-step approaches, and finally discuss how and why the widely used Transformer architecture matters.
+This repository consists of Python (PyTorch) examples to learn fundamental neural methods for Natural Language Processing (NLP).<br>
+Each notebook has end-to-end implementation from scratch for each task, and I describe fundamental ideas (and background) for each architecture.
 
 1. [Primitive Embeddings (Sparse Vector)](./01_sparse_vector.ipynb)
 2. [Custom Embedding (Dense Vector)](./02_custom_embedding.ipynb)
@@ -18,9 +15,12 @@ In the latter part (from tutorial 5), I then focus on language models, improving
 
 > I recommend you to run these examples on GPU-utilized machine.
 
-NLP (natural language processing) has a long history in artificial intelligence, and generative models were also developed with traditional statistical models in 1950s - such as, [Hidden Markov Models (HMMs)](https://github.com/tsmatz/hmm-lds-em-algorithm) or [Gaussian Mixture Models (GMMs)](https://github.com/tsmatz/gmm).<br>
-However, this repository focuses on recent neural methods examined in today's NLP, and you'll learn how each models are developed, improved, and reached into today's architectures (such as, widely-used transformers) by running notebooks step-by-step in order.
+Tutorials follow the history of NLP neural methods.<br>
+In the latter part (from tutorial 5), I then focus on language models, improving the models by step-by-step approaches, and finally discuss how and why the widely used Transformer architecture matters.
 
-[Feb 2023] All examples were transformed (from TensorFlow) into PyTorch.
+NLP (natural language processing) has a long history in artificial intelligence, and generative models were also developed with traditional statistical models in 1950s - such as, [Hidden Markov Models (HMMs)](https://github.com/tsmatz/hmm-lds-em-algorithm) or [Gaussian Mixture Models (GMMs)](https://github.com/tsmatz/gmm).<br>
+However, this repository focuses on recent neural methods examined in today's NLP.
+
+> [Feb 2023] All examples were transformed (from TensorFlow) into PyTorch.
 
 *Tsuyoshi Matsuzaki @ Microsoft*
