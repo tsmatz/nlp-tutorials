@@ -16,7 +16,7 @@ Each notebook has end-to-end implementation (for each task) from scratch, and de
 > I recommend you to run these examples on GPU-utilized machine.
 
 Tutorials follow the history of NLP neural methods.<br>
-In the latter part (from tutorial 5), I then focus on language models, improving the models by step-by-step approaches, and finally you will learn how and why the widely used Transformer architecture matters.
+In the latter part (from tutorial 5), I then focus on language models, improving the models by step-by-step approaches, and finally you will learn how and why the widely used Transformer architecture matters. (You will find how it's improved by running actual tasks.)
 
 NLP (natural language processing) has a long history in artificial intelligence, and generative models were also developed with traditional statistical models in 1950s - such as, [Hidden Markov Models (HMMs)](https://github.com/tsmatz/hmm-lds-em-algorithm) or [Gaussian Mixture Models (GMMs)](https://github.com/tsmatz/gmm).<br>
 However, this repository focuses on recent neural methods examined in today's NLP.
