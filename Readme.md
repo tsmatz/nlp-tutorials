@@ -21,6 +21,7 @@ In the latter part (from tutorial 5), I then focus on language models, improving
 NLP (natural language processing) has a long history in artificial intelligence, and generative models were also developed with traditional statistical models in 1950s - such as, applying [Hidden Markov Models (HMMs)](https://github.com/tsmatz/hmm-lds-em-algorithm) or [Gaussian Mixture Models (GMMs)](https://github.com/tsmatz/gmm).<br>
 This repository, however, focuses on recent neural methods engaged in today's NLP.
 
-> [Feb 2023] All examples were transformed (from TensorFlow) into PyTorch.
+> [Feb 2023] All examples were transformed (from TensorFlow) into PyTorch.<br>
+> [Feb 2025] Removed torchtext dependency. (Because it's deprecated.)
 
 *Tsuyoshi Matsuzaki @ Microsoft*
